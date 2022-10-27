@@ -14,7 +14,7 @@ export default siteConfig({
   author: 'PlatoJobs',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: '行者无疆',
 
   // social usernames (optional)
   twitter: 'platojobs',
