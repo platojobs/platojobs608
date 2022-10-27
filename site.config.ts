@@ -9,7 +9,7 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'PlatoJobs' Blog',
+  name: 'PlatoJobs-Blog',
   domain: 'https://shengyunxi.notion.site/PlatoJobs-214755f21def48d5adc1bea052e8645f',
   author: 'PlatoJobs',
 
