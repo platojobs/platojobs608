@@ -10,4 +10,4 @@ description: gitbook
 * `gitbook-editor` 编辑器操作，可视化编辑，适合无编程经验的文学创作者.
 * `gitbook.com` 官网操作，在线编辑实时发布，适合无本地环境且科学上网的体验者.
 
-[2022-10-27.md](2022-nian/2022-10-27.md "mention")\
+[wo-jin-tian-he-peng-you-liao-qi-lian-ai-zhe-hui-shi-10.27.md](2022-nian/wo-jin-tian-he-peng-you-liao-qi-lian-ai-zhe-hui-shi-10.27.md "mention")\
